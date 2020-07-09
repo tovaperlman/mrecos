@@ -4,7 +4,7 @@ My name is Matt and I write code to build tools and analysis that (hopefully) he
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CV19 related shiny apps, common data platforms, and the occasional ML pipeline. (mostly private repos)
-- 🌱 I’m currently learning shiny, sihny modules, and how much I don't know about JS
+- 🌱 I’m currently learning shiny, shiny modules, and how much I don't know about JS
 - 💬 Ask me about R or using Data Science in the Engineering & Construction Industry
 - 📫 How to reach me: matthew.d.harris@aecom.com or md_harris on Twitter
 - 😄 Pronouns: he/him, they/them
